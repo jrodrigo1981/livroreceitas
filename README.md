@@ -3,4 +3,5 @@
 olá, bem vindo ao livro de receitas :wave:
 
 - Strognoff de frango
-- pave
+- Pavê
+- Bolo de Cenoura
